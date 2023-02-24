@@ -1,4 +1,3 @@
-/* eslint linebreak-style: ["error", "windows"] */
 import toSortHero, { heroNotSort } from '../index';
 
 test('check sort heroes', () => {
